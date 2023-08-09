@@ -1,6 +1,6 @@
-# EduPlayMart
+# BabyToys
 
-EduPlayMart is an online toy marketplace that offers a wide range of educational toys for children.
+BabyToys is an online toy marketplace that offers a wide range of educational toys for children.
 
 ## Features
 
@@ -15,11 +15,11 @@ EduPlayMart is an online toy marketplace that offers a wide range of educational
 
 ## Demo
 
-You can access a live demo of EduPlayMart at -> [EduPlayMart](https://eduplaymart-sam.web.app)
+You can access a live demo of BabyToys at -> [BabyToys](https://baby-toy.netlify.app)
 
 ## Server Side Repository
 
-Click here for the server side repo -> https://github.com/showkatali-dev/eduPlayMart-server
+Click here for the server side repo -> https://github.com/parthasarathi019/babytoys-server
 
 ## Technologies Used
 
@@ -47,7 +47,7 @@ Click here for the server side repo -> https://github.com/showkatali-dev/eduPlay
 
 ## Getting Started
 
-Follow these instructions to get a local copy of the EduPlayMart website up and running on your machine for development and testing purposes:
+Follow these instructions to get a local copy of the BabyToys website up and running on your machine for development and testing purposes:
 
     1. Clone the repository: git clone repository-link
 
@@ -59,7 +59,7 @@ Follow these instructions to get a local copy of the EduPlayMart website up and 
 
 ## Deployment
 
-To deploy EduPlayMart to a production environment, follow the deployment instructions specific to your hosting platform (e.g., Netlify, AWS, Firebase, Render etc.).
+To deploy BabyToys to a production environment, follow the deployment instructions specific to your hosting platform (e.g., Netlify, AWS, Firebase, Render etc.).
 
 ## Contributing
 
